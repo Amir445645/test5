@@ -1,0 +1,239 @@
+body {
+  font-family: sans-serif;
+
+  text-align: center;
+  padding: 100px;
+}
+a {
+  color: grey;
+  text-decoration: none;
+}
+
+.active {
+  color: #5dc6b0;
+}
+.active1:hover {
+  color: #5dc6b0;
+}
+
+.docplanner-header {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1015px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.header-menu {
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+}
+
+.introduction {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1015px;
+  height: 308.6 px;
+  padding: 20px;
+  margin: auto;
+  font-family: sans-serif;
+}
+.introduction-logo {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+}
+.introduction-title {
+  color: #5dc6b0;
+}
+.introduction-text {
+  display: flex;
+  color: grey;
+  justify-content: space-between;
+}
+.introduction-paragraph {
+  margin: 10px;
+}
+.services {
+  display: flex;
+  justify-content: center;
+  left: 50px;
+  color: #ffffff;
+  margin: auto;
+}
+.service-card {
+  padding: 25px;
+  border-radius: 8px;
+  margin: 10px;
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.sercice-card-patients {
+  background-color: #00ccb1;
+}
+.service-card-doctors {
+  background-color: #3d83df;
+}
+.service-card-clinics {
+  background-color: #1b2734;
+}
+.service-card-select {
+  text-decoration: underline;
+}
+.suite {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  width: 1015px;
+}
+.paragraph {
+  color: #00ccb1;
+  font-size: 18pt;
+  margin: auto;
+
+  text-align: center;
+}
+.logo {
+  margin: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+  background-image: url("https://cdn.theorg.com/88173dd9-3b2b-4632-9a8c-2ca57ad554e4_thumb.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.debut {
+  width: 250px;
+  padding: 50px;
+}
+.intro {
+  color: #00ccb1;
+}
+.descr {
+  color: grey;
+}
+.paquet {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  align-items: baseline;
+}
+.paquet1 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.paquet2 {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.paquet3 {
+  width: 200px;
+  margin: 10px;
+  height: 200px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.paquet4 {
+  width: 200px;
+  margin: 10px;
+  height: 200px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.paquet-introduction {
+  color: #00ccb1;
+}
+.paquet-description {
+  color: grey;
+  font-size: 10pt;
+}
+.partie-final {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.f-1 {
+  text-align: center;
+  width: 400px;
+  height: 400px;
+}
+.f-introduction {
+  color: #00ccb1;
+}
+.f-description {
+  color: grey;
+}
+.pictures {
+  display: flex;
+
+  padding: 50px;
+  flex-wrap: wrap;
+  height: 800px;
+  align-items: flex-start;
+  margin: 5px;
+  width: 1015px;
+}
+.pays1 {
+  margin: 5px;
+}
+.pays2 {
+  margin: 5px;
+}
+.pays3 {
+  margin: 5px;
+}
+.pays4 {
+  margin: 5px;
+}
+.pays5 {
+  margin: 5px;
+}
+.pays6 {
+  margin: 5px;
+}
+.pays7 {
+  margin: 5px;
+}
+.bouton0 {
+  display: inline;
+  background-color: #3d83df;
+  color: #ffffff;
+}
+.unique {
+  display: inline;
+  color: grey;
+}
+.bas {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.bouton {
+  background-color: #3d83df;
+  color: white;
+}
+
+footer {
+  margin: 40px;
+  text-align: center;
+  color: grey;
+  width: 1015px;
+  margin: 100px;
+}
+.lien {
+  color: blue;
+}
